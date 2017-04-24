@@ -4,7 +4,7 @@
     i. What is the most number of levels this tree can have? Provide an example that includes the original list and the tree. <br>
     ii. What is the least number of levels this tree can have? Provide an example that includes the original list and the tree. <br>
 2. For the tree
-                            9
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    9
                        5          12
                     2     7    10    15
                      3   6       11 13 16
